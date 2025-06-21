@@ -9,7 +9,7 @@ How to Contact VIPRE TV Customer Service?
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://getchatsupport.live/
+   :target: https://vipree.support/
 
 
 VIPRE TV is steadily becoming a noteworthy player in the digital streaming landscape, offering viewers a diverse range of channels, on-demand content, and international programming. As the platform grows in popularity, customer support becomes a vital component of its user experience. Providing reliable, accessible, and responsive customer service is essential for VIPRE TV to build long-term user satisfaction and brand trust.
